@@ -4,7 +4,7 @@ Fairness-aware interpretable modeling (FAIM) [1] is an in-processing fairness me
 
 This repository contains the Jupyter notebooks that make up the coding portion of the thesis work conducted to fulfill the requirements for the master's degree in data science from the University of Barcelona as supervised by Dr. Laura Igual Muñoz. Additionally, it contains the thesis report, which provides an in-depth description of the study, and the presentation slides, which provide a more brief summary of the work.
 
-### Notebooks:
+## Notebooks:
 
 
 
