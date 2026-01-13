@@ -14,4 +14,4 @@ This repository contains the Jupyter notebooks that make up the coding portion o
 
 [2] NliuLab, “FAIM: Fairness-aware interpretable modeling.” GitHub repository, 2025. Available: https://github.com/nliulab/FAIM/tree/main.
 
-[3] F. M. Abdelmalek et al., “Association between patient race and ethnicity and use of invasive ventilation in the United States,” Ann. Am. Thorac. Soc., vol. 21, pp. 287–295, Feb. 2024.
+[3] [2] F. M. Abdelmalek et al., "Association between patient race and ethnicity and use of invasive ventilation in the United States," *Ann. Am. Thorac. Soc.*, vol. 21, no. 2, pp. 287-295, Feb. 2024. [Link](https://doi.org/10.1513/AnnalsATS.202305-485OC)
