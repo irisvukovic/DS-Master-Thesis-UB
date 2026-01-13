@@ -2,7 +2,7 @@
 
 Fairness-aware interpretable modeling (FAIM) [1] is an in-processing fairness method that avoids extreme performance degradation while improving fairness and maintaining interpretability. This study consists of the reproduction of the results reached in the original FAIM paper with the clinical prediction task of hospital admission after emergency department (ED) stay utilizing the code provided in [2], followed by stress-testing the FAIM workflow with the unique task of invasive mechanical ventilation (IMV) prediction as inspired by [3]
 
-This repository contains the Jupyter notebooks that make up the coding portion of the thesis work supervised by Dr. Laura Igual Muñoz and conducted to fulfill the requirements for the master's degree in data science from the University of Barcelona. Additionally, it contains the thesis report, which provides an in-depth description of the study, and the presentation slides, which provide a more brief summary of the work.
+This repository contains the Jupyter notebooks that make up the coding portion of the thesis work conducted to fulfill the requirements for the master's degree in data science from the University of Barcelona as supervised by Dr. Laura Igual Muñoz. Additionally, it contains the thesis report, which provides an in-depth description of the study, and the presentation slides, which provide a more brief summary of the work.
 
 ### Notebooks:
 
