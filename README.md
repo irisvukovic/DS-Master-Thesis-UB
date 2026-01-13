@@ -7,7 +7,7 @@ This repository contains the Jupyter notebooks that make up the coding portion o
 ## Notebooks:
 For the replication, we first [re-create the dataset](./hosp_admission_dataset.ipynb) used in the original task of hospital admission following the code provided in [4]. Then we do [bias analysis](./hosp_admission_bias_analysis.ipynb) to ensure that there is bias in the original task before running the [FAIM workflow](./hosp_admission_faim_workflow.ipynb) to get final results. Separately, we get [adversarial learning results](./hosp_admission_adversarial_fairness.ipynb) following [5] to insert into our fairness methods comparison table. 
 
-Similarly, for the new clinical task of IMV allocation prediction, we [create a dataset](./imv_dataset.ipynb) extracting clinically relevant features, do an inital [bias analysis](./imv_bias_analysis.ipynb) beforehand, get [adversarial learning results](./imv_adversarial_fairness.ipynb), and finally run the [FAIM workflow](./imv_faim_workflow.ipynb).
+Similarly, for the new clinical task of IMV allocation prediction, we [create a dataset](./imv_dataset.ipynb) extracting clinically relevant features, do an inital [bias analysis](./imv_bias_analysis.ipynb) beforehand, get [adversarial learning results](./imv_adversarial_fairness.ipynb), and finally run the [FAIM workflow](./imv_task_faim_workflow.ipynb).
 
 ## References
 [1] M. Liu et al., "FAIM: Fairness-aware interpretable modeling for trustworthy machine learning in healthcare," *Patterns*, vol. 5, Oct. 2024. https://doi.org/10.1016/j.patter.2024.241059
